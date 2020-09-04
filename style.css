@@ -1,0 +1,25 @@
+header {
+  background: #2196f3;
+  height: 60px;
+  padding: 0 15px; }
+
+header nav {
+  color: #FFF;
+  font-size: 40px;
+  text-decoration: none;
+  line-height: 60px;
+  padding: 0 20px; }
+
+div {
+  margin-top: 20px;
+  padding: 0 20px; }
+
+main p {
+  font-size: 14px;
+  color: #666; }
+
+button {
+  color: #FFF;
+  background: #2196f3; }
+
+/*# sourceMappingURL=style.css.map */

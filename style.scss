@@ -1,0 +1,40 @@
+$theme:#2196f3;
+$text-dark:#333;
+$text-medium:#666;
+$text-light:#999;
+
+// Font size
+$title:30px;
+$sub-title:20px;
+$para:14px;
+$label:12px;
+
+header{
+  background: $theme;
+  height: 60px;
+  padding: 0 15px;
+}
+
+header nav{
+  color: #FFF;
+  font-size: 40px;
+  text-decoration: none;
+  line-height: 60px;
+  padding: 0 20px;
+}
+
+div{
+  margin-top: 20px;
+  padding: 0 20px;
+}
+
+
+main p{
+  font-size: $para;
+  color: $text-medium;
+}
+
+button{
+  color: #FFF;
+  background: $theme;
+}
